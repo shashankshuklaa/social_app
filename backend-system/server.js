@@ -1,3 +1,4 @@
+console.log("🔥 SERVER VERSION 2 RUNNING");
 const cors = require("cors");
 const express = require("express");
 const dotenv = require("dotenv");
